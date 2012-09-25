@@ -1,0 +1,55 @@
+#book_cover
+{
+    display:inline;
+    float:left;
+    margin-right: 10px;
+}
+
+#book_title
+{
+    font-size: 32px;
+    display: block;
+    font-weight: bold;
+}
+
+#book_author
+{
+    display: block;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+#book_date
+{
+    display: block;
+    font-weight: bold;
+}
+
+#book_date label
+{
+    font-weight: normal;
+}
+
+#book_isbn
+{
+    display: block;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+#book_isbn label
+{
+    font-weight: normal;
+}
+
+#lbl_resume
+{
+    font-size: 24px;
+    text-decoration:underline;
+}
+
+#book_description
+{
+    font-family: arial;
+    line-height: 20px;
+}

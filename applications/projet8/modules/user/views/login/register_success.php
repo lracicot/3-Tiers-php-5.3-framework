@@ -1,0 +1,1 @@
+Bravo. Vous avez réussit à vous inscrire. Vous pouvez maintenant vous connecter.
